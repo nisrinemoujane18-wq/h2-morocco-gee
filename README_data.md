@@ -1,4 +1,4 @@
-# 📦 Données — H₂ Morocco GEE
+#  Données — H₂ Morocco GEE
 
 ## Fichiers à fournir
 
