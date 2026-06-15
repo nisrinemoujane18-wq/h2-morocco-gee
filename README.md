@@ -9,7 +9,7 @@
 Ce dépôt contient le script **Google Earth Engine (GEE)** développé dans le cadre du Projet de Fin d'Études (PFE) réalisé à l'**IRESEN** (Institut de Recherche en Énergie Solaire et Énergies Nouvelles) — Département Hydrogène Vert.
 
 L'objectif est d'identifier et de cartographier les **zones à haute potentialité** pour la production d'hydrogène vert au Maroc, en combinant :
-- Analyse spatiale multi-critère (**MCDM/AHP**)
+- Analyse spatiale multi-critères (**MCDM/AHP**)
 - Télédétection satellitaire (**Google Earth Engine**)
 - Combinaison Linéaire Pondérée (**WLC**)
 
@@ -155,9 +155,9 @@ Avec masque d'exclusion : zones urbaines, eau permanente, neige, pente > 45°.
 
 | Rang | Région | Score Hybride (/100) |
 |------|--------|---------------------|
-| 🥇 1 | Dakhla-Oued Ed-Dahab | **69,6** |
-| 🥈 2 | Guelmim-Oued Noun | **66,0** |
-| 🥉 3 | Laâyoune-Sakia El Hamra | **63,5** |
+|   1 | Dakhla-Oued Ed-Dahab | **69,6** |
+|     2 | Guelmim-Oued Noun | **66,0** |
+|      3 | Laâyoune-Sakia El Hamra | **63,5** |
 | 4 | Souss-Massa | 62,6 |
 | 5 | Drâa-Tafilalet | 60,5 |
 
@@ -165,13 +165,13 @@ Avec masque d'exclusion : zones urbaines, eau permanente, neige, pente > 45°.
 
 ## 👩‍💻 Auteurs
 
-| Nom | Rôle |
-|-----|------|
-| **Moujane Nisrine** | Ingénieure PFE — ENSC Kénitra |
-| **Lahni Maroua** | Ingénieure PFE — ENSC Kénitra |
+| Nom | Rôle | Institution |
+|-----|------|-------------|
+| **Moujane Nisrine** | Ingénieure PFE | ENSA Beni Mellal |
+| **Lahni Maroua** | Ingénieure PFE | ENSC Kénitra |
 
-**Encadrante industrielle** : Dr. Meryeme Azaroual (IRESEN)  
-**Institution** : IRESEN — Département Hydrogène Vert, Rabat, Maroc  
+**Encadrante industrielle** : Dr. Meryeme Azaroual (IRESEN)
+**Institution** : IRESEN — Département Hydrogène Vert, Rabat, Maroc
 **Période** : Février – Juin 2026
 
 ---
@@ -192,7 +192,7 @@ Si vous utilisez ce travail, merci de citer :
   title     = {H2 Morocco GEE — Cartographie Spatiale du Potentiel d'Hydrogène Vert},
   year      = {2026},
   publisher = {GitHub},
-  url       = {https://github.com/maroualarhni/h2-morocco-gee},
+  url       = {https://github.com/nisrinemoujane18-wq/h2-morocco-gee},
   note      = {PFE IRESEN — Département Hydrogène Vert}
 }
 ```
@@ -205,4 +205,4 @@ Si vous utilisez ce travail, merci de citer :
 |-------|-------------|
 | [h2-morocco](https://github.com/maroualarhni/h2-morocco) | Plateforme principale (PyPSA, MILP, Streamlit) |
 | [h2-morocco-ml](https://github.com/maroualarhni/h2-morocco-ml) | Module Machine Learning (Random Forest, Flask) |
-| **h2-morocco-gee** | Ce dépôt — Cartographie GEE |
+| [h2-morocco-gee](https://github.com/nisrinemoujane18-wq/h2-morocco-gee) | Ce dépôt — Cartographie GEE |
