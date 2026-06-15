@@ -1,4 +1,4 @@
-# 🌍 H₂ Morocco — Cartographie Spatiale du Potentiel d'Hydrogène Vert
+#  H₂ Morocco — Cartographie Spatiale du Potentiel d'Hydrogène Vert
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Platform: Google Earth Engine](https://img.shields.io/badge/Platform-Google%20Earth%20Engine-blue.svg)](https://earthengine.google.com/)
@@ -15,7 +15,7 @@ L'objectif est d'identifier et de cartographier les **zones à haute potentialit
 
 ---
 
-## 🗺️ Couverture Géographique
+##  Couverture Géographique
 
 - **Territoire** : 12 régions administratives du Maroc (post-2015) + Sahara Occidental
 - **Résolution spatiale** : 5 km
@@ -46,7 +46,7 @@ h2-morocco-gee/
 
 ---
 
-## 🛰️ Sources de Données Satellitaires
+##  Sources de Données Satellitaires
 
 | Critère | Source GEE | Résolution | Période |
 |---------|-----------|------------|---------|
@@ -131,7 +131,7 @@ Avec masque d'exclusion : zones urbaines, eau permanente, neige, pente > 45°.
 
 ---
 
-## 🚀 Utilisation
+##  Utilisation
 
 ### Prérequis
 - Compte **Google Earth Engine** actif : [signup.earthengine.google.com](https://signup.earthengine.google.com/)
@@ -205,4 +205,4 @@ Si vous utilisez ce travail, merci de citer :
 |-------|-------------|
 | [h2-morocco](https://github.com/maroualarhni/h2-morocco) | Plateforme principale (PyPSA, MILP, Streamlit) |
 | [h2-morocco-ml](https://github.com/maroualarhni/h2-morocco-ml) | Module Machine Learning (Random Forest, Flask) |
-| [h2-morocco-gee](https://github.com/nisrinemoujane18-wq/h2-morocco-gee) | Ce dépôt — Cartographie GEE |
+| [h2-morocco-gee](https://github.com/nisrinemoujane18-wq/h2-morocco-gee) | Cartographie GEE |
